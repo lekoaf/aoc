@@ -1,0 +1,1 @@
+My quick and dirty solutions to the [AdventOfCode](http://adventofcode.com/) challenges.
